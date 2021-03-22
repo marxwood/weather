@@ -1,4 +1,4 @@
-# weather
+# Weather
 
 A simple demo that generates weather report widgets out of the data from the public API.
 
